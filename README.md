@@ -13,7 +13,8 @@ I am a **Results-driven DevOps Engineer and Java Full-Stack Developer** passiona
 - **Web Development:** HTML, CSS, JavaScript, React.js  
 - **Backend:** Hibernate, Spring Boot  
 - **DevOps Tools:** Git, GitHub, Maven, Jenkins, Ansible, Docker, Kubernetes, Terraform  
-- **Cloud Computing:** AWS  
+- **Cloud Computing:** AWS
+- **Operatin Systems:** Windows, Linux
 
 ---
 
